@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irishpete68
-- 👀 I’m interested in .net, opensource, rasberry pi, IOT
+- 👀 I’m interested in .net, opensource, raspberry pi, IOT
 - 🌱 I’m currently learning lots of differnt things
 - 💞️ I’m looking to collaborate on .net based opensource projects.
 - 📫 How to reach me, through github
